@@ -37,7 +37,7 @@ while True :
     else :
         prompt = my_speech['alternative'][0]['transcript']
 
-        prompt = '만화 그림체로' + prompt
+        # prompt = '만화 그림체로' + prompt
 
         print(prompt)
 
@@ -47,4 +47,4 @@ while True :
         
         AI_Image = image_generator_lib.image_generator_karlo(translated_prompt, kakao_api_key)
 
-        AI_Image.save("./original.png")
+        AI_Image.save("generated_AI_Image/generated_img.png")
