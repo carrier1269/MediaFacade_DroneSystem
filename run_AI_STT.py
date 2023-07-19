@@ -37,7 +37,7 @@ while True :
     else :
         prompt = my_speech['alternative'][0]['transcript']
 
-        # prompt = '만화 그림체로' + prompt
+        prompt = '만화 그림체로' + prompt
 
         print(prompt)
 

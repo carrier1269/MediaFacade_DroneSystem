@@ -7,12 +7,12 @@ ESC_KEY=27
 FRAME_RATE = 120
 SLEEP_TIME = 1/FRAME_RATE
 
-capture = window.WindowCapture("KakaoTalk",FRAME_RATE)
+capture = window.WindowCapture("segment",FRAME_RATE)
 
 while True:
     start=time.time()
-    frame = capture.screenshot()
-    cv2.imshow("frame1",frame)
+    _, frame = capture.screenshot()
+    cv2.imshow("drone",frame)
     delta= time.time()-start
     if delta <SLEEP_TIME:
         time.sleep(SLEEP_TIME-delta)

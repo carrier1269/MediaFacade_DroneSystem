@@ -16,7 +16,7 @@ class WindowCapture:
 
         left, top, right, bot = win32gui.GetClientRect(hwnd)
         x, y = win32gui.ClientToScreen(hwnd, (left, top))
-        return cv2.cvtColor(
+        return True, cv2.cvtColor(
             np.asarray(
                 pyautogui.screenshot(
                     region=(x, y,
