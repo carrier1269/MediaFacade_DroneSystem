@@ -4,7 +4,8 @@
 ![image](https://github.com/carrier1269/drone_capstone/assets/58325946/15174fec-4cf8-4263-b328-ff226b99db21)
 
 
-![image](https://github.com/carrier1269/drone_capstone/assets/58325946/5bb1e891-694b-4750-acd6-8b8ed8468fb4)
+![image](https://github.com/carrier1269/drone_capstone/assets/58325946/b4b2a3bb-f204-4879-a10b-747c73abe77e)
+
 
 
 # Library
