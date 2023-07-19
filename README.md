@@ -1,6 +1,5 @@
 # drone_capstone
-
-![image](https://github.com/carrier1269/drone_capstone/assets/58325946/c73fb1c6-7324-4cd1-a186-50eb5686a12c)
+![image](https://github.com/carrier1269/drone_capstone/assets/58325946/fff1d506-bf2d-4693-b0e2-cd015a7ae71d)
 ![image](https://github.com/carrier1269/drone_capstone/assets/58325946/13737a8e-9b5a-41a5-b2cf-6d66bde3c18c)
 ![image](https://github.com/carrier1269/drone_capstone/assets/58325946/15174fec-4cf8-4263-b328-ff226b99db21)
 
