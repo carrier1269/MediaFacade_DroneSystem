@@ -3,8 +3,9 @@
 ![image](https://github.com/carrier1269/drone_capstone/assets/58325946/13737a8e-9b5a-41a5-b2cf-6d66bde3c18c)
 ![image](https://github.com/carrier1269/drone_capstone/assets/58325946/15174fec-4cf8-4263-b328-ff226b99db21)
 
-# Skills
-## BashShell, Pixhawk4, HW(hardware), Python, Postman, Flask, Google-STT, Kakao karlo, Instance Segmentation, Mirroid
+
+![image](https://github.com/carrier1269/drone_capstone/assets/58325946/5bb1e891-694b-4750-acd6-8b8ed8468fb4)
+
 
 # Library
 ## bash_shell_auto // 한번에 프로그램을 관리할 수 있는 자동 프로그램 실행파일입니다.
