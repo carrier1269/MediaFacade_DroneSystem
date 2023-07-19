@@ -24,6 +24,7 @@
 #### segment/best.pt (segmentation model)
 #### segment/main_predict.py
 
+### home folder
 #### app.py (drone_cam.py + image_add.py + run_AI_STT.py) // my_lib폴더내의 라이브러리들을 상속받고 있습니다, Flask API 생성 파일입니다.
 #### craw.py // 데이터 크롤링
 
