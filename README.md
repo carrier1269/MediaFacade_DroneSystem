@@ -1,4 +1,4 @@
-# drone_capstone
+## AI 미디어 파사드 드론
 <img src="https://github.com/carrier1269/drone_capstone/assets/58325946/68596568-a95b-496a-ab7b-e2f1b7c00de2" width="412" height="300">
 <img src="https://github.com/carrier1269/drone_capstone/assets/58325946/4760dbe7-0efa-4b14-8b5c-7850204a54c2" width="412" height="300">
 <img src="https://github.com/carrier1269/drone_capstone/assets/58325946/13737a8e-9b5a-41a5-b2cf-6d66bde3c18c.png" width="412" height="300">
