@@ -1,12 +1,12 @@
 ## AI 미디어 파사드 드론
+![image](https://github.com/carrier1269/drone_capstone/assets/58325946/fb6ca35e-14bc-4d0e-befa-1f0256e1d41e)
+![image](https://github.com/carrier1269/drone_capstone/assets/58325946/0331f05c-745b-40e9-927a-a8805b390780)
+
+
 <img src="https://github.com/carrier1269/drone_capstone/assets/58325946/68596568-a95b-496a-ab7b-e2f1b7c00de2" width="412" height="300">
 <img src="https://github.com/carrier1269/drone_capstone/assets/58325946/4760dbe7-0efa-4b14-8b5c-7850204a54c2" width="412" height="300">
 <img src="https://github.com/carrier1269/drone_capstone/assets/58325946/13737a8e-9b5a-41a5-b2cf-6d66bde3c18c.png" width="412" height="300">
 <img src="https://github.com/carrier1269/drone_capstone/assets/58325946/15174fec-4cf8-4263-b328-ff226b99db21.png" width="412" height="300">
-
-![image](https://github.com/carrier1269/drone_capstone/assets/58325946/fb6ca35e-14bc-4d0e-befa-1f0256e1d41e)
-![image](https://github.com/carrier1269/drone_capstone/assets/58325946/0331f05c-745b-40e9-927a-a8805b390780)
-
 
 
 
