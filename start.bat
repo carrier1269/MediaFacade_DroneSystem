@@ -24,11 +24,20 @@ for /L %%i in (1,1,%numOpts%) do set /P "var="
 
 :nextOpt
 cls
-echo MULTI-LINE MENU WITH OPTIONS SELECTION
+
+echo " /$$      /$$                 /$$ /$$                 /$$$$$$$$                                 /$$          "
+echo "| $$$    /$$$                | $$|__/                | $$_____/                                | $$          "
+echo "| $$$$  /$$$$  /$$$$$$   /$$$$$$$ /$$  /$$$$$$       | $$    /$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$$  /$$$$$$ "
+echo "| $$ $$/$$ $$ /$$__  $$ /$$__  $$| $$ |____  $$      | $$$$$|____  $$ /$$_____/ |____  $$ /$$__  $$ /$$__  $$"
+echo "| $$  $$$| $$| $$$$$$$$| $$  | $$| $$  /$$$$$$$      | $$__/ /$$$$$$$| $$        /$$$$$$$| $$  | $$| $$$$$$$$"
+echo "| $$\  $ | $$| $$_____/| $$  | $$| $$ /$$__  $$      | $$   /$$__  $$| $$       /$$__  $$| $$  | $$| $$_____/"
+echo "| $$ \/  | $$|  $$$$$$$|  $$$$$$$| $$|  $$$$$$$      | $$  |  $$$$$$$|  $$$$$$$|  $$$$$$$|  $$$$$$$|  $$$$$$$"
+echo "|__/     |__/ \_______/ \_______/|__/ \_______/      |__/   \_______/ \_______/ \_______/ \_______/ \_______/"
+
 echo/
 rem Send a F7 key to open the selection menu
 cscript //nologo /E:JScript "%~F0"
-set /P "var=Select the desired option: "
+set /P "var="
 echo/
 if /I "%var%" equ "Exit Program" ( goto :EOF )
 if /I "%var%" == "MediaFacade" ( start "Auto Run" .\AutoRun.bat )
