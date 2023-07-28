@@ -5,7 +5,8 @@
 <img src="https://github.com/carrier1269/drone_capstone/assets/58325946/15174fec-4cf8-4263-b328-ff226b99db21.png" width="412" height="300">
 
 ![image](https://github.com/carrier1269/drone_capstone/assets/58325946/fb6ca35e-14bc-4d0e-befa-1f0256e1d41e)
-![image](https://github.com/carrier1269/drone_capstone/assets/58325946/2cb61c95-0e26-417b-85e9-5f73002b6cad)
+![image](https://github.com/carrier1269/drone_capstone/assets/58325946/0331f05c-745b-40e9-927a-a8805b390780)
+
 
 
 
