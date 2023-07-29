@@ -1,5 +1,6 @@
 ## AI 미디어 파사드 드론
-![image](https://github.com/carrier1269/drone_capstone/assets/58325946/fb6ca35e-14bc-4d0e-befa-1f0256e1d41e)
+![image](https://github.com/carrier1269/drone_capstone/assets/58325946/d768aa1a-abdf-46cb-9d9d-b7af4e200e6f)
+![image](https://github.com/carrier1269/drone_capstone/assets/58325946/92013f77-e151-4614-9655-bb2d82927e2c)
 ![image](https://github.com/carrier1269/drone_capstone/assets/58325946/0331f05c-745b-40e9-927a-a8805b390780)
 
 
